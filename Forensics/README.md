@@ -51,7 +51,7 @@
 # Creating Selenium Python Script to Extract the Local Address of Coordinate Locations 
 
 ![maps](images/maps.gif)
-let that render.
+
 
 
 ### What This Script is Doing: 
